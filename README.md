@@ -1,3 +1,26 @@
 # Transformando Fila-Mentes
-_Víctor Naranjo Cifuentes_ . _Sebastián Bohorquez_
-__Descripción:__
+_Víctor Naranjo Cifuentes_ & _Juan Sebastián Bohorquez_
+### Descripción
+asdmjasndjansdjnajsndjkasjkdnajksd
+### Problemática
+asdnasdnjasdjnasjdnasd
+### Alcance
+asdahsdasd
+### Objetivos
+asdkagsduyasdiasd
+### Diagrama de flujo de solución
+ci
+### Diagrama de caja negra
+aiusdh
+### Diagrama de caja negra (con tecnológia)
+aisdhniausn
+### /foto del tablero
+### Apartado Kicad
+esquematico circuital
+ruteo en Kicad
+3d del diseño 
+fotos de la PCB
+### Pruebas
+fotos del corte de piezas 
+### Link del video de Youtube (donde se explique la implementación del proyecto)
+### Referencias
