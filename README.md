@@ -1,5 +1,3 @@
 # Transformando Fila-Mentes
-
-
-##oajasasd
-#ci
+_Víctor Naranjo Cifuentes_ . _Sebastián Bohorquez_
+__Descripción:__
