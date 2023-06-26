@@ -11,7 +11,7 @@ asdkagsduyasdiasd
 ### Diagrama de flujo de solución
 ci
 ### Diagrama de caja negra
-Diagrama_de_Cajas_Negras.jpg
+[Diagrama_de_Cajas_Negras.jpg](https://github.com/VictorNaranjo02/Transformando_Fila-Mentes/blob/main/Diagrama_de_Cajas_Negras.jpg)
 ### Diagrama de caja negra (con tecnológia)
 aisdhniausn
 ### /foto del tablero
