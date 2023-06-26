@@ -14,6 +14,7 @@ ci
 [Diagrama_de_Cajas_Negras.jpg](https://github.com/VictorNaranjo02/Transformando_Fila-Mentes/blob/main/Diagrama_de_Cajas_Negras.jpg)
 ### Diagrama de caja negra (con tecnológia)
 aisdhniausn
+### Ideas de Tablero
 Con ayuda del profe surgieron ideas para las tecnologias a implemetar https://github.com/VictorNaranjo02/Transformando_Fila-Mentes/blob/main/Tablero.jpg
 ### Apartado Kicad
 esquematico circuital
