@@ -18,6 +18,7 @@ Elaboración de la estructura
 Ensamblaje de la máquina
 Resultados 
 Conclusiones
+###__Materiales__
 ### Diagrama de flujo de solución
 ci
 ### Diagrama de caja negra
@@ -34,6 +35,8 @@ fotos de la PCB
 ### Pruebas
 fotos del corte de piezas 
 ### Codigo Python
-Para el manejo de la velocidad en el motor paso a paso se utilizo la herramienta de micropython en la Esp32, lo cual no permite tener un control de la velocidad del motor de manera digital. Para esto se hizo uso del codigo 
+Para el manejo de la velocidad en el motor paso a paso se utilizo la herramienta de micropython en la Esp32, lo cual no permite tener un control de la velocidad del motor de manera digital. Para esto se hizo uso del codigo https://github.com/VictorNaranjo02/Transformando_Fila-Mentes/blob/main/Codigo%20Python
 ### Link del video de Youtube (donde se explique la implementación del proyecto)
+
+###Conclusiones
 ### Referencias
