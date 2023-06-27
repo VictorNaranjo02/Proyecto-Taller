@@ -1,7 +1,7 @@
 # Transformando Fila-Mentes
 _Víctor Naranjo Cifuentes_ & _Juan Sebastián Bohorquez_
 ### Descripción
-asdmjasndjansdjnajsndjkasjkdnajksd
+Este es un proyecto para la asignatura de taller de ingeniería electrónica el cual se basa en la fabricación de una maquina transformadora de filamento PET
 ### Problemática
 asdnasdnjasdjnasjdnasd
 ### Alcance
