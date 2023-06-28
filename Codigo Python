@@ -1,4 +1,5 @@
-###Codigo Python:
+### Codigo Python:
+## Codigo motor paso a paso:
 from machine import Pin
 import time
 
@@ -25,3 +26,24 @@ while True:
         time.sleep_ms(10)
         pinStep.off()
         time.sleep_ms(10)
+
+## codigo control temperatura:
+from time import sleep
+from machine import ADC, Pin
+from math import log
+
+BETA=6000
+KELVIN_CONSTANT=273.15
+
+def adc_a_celsius(x):
+    return(1/(log(1/65535/x-1))/BETA+1/298.15)-KELVIN_CONSTANT)
+
+
+ntc_pin=ADC(Pin(02))
+ntc_pin.atten(ADC.ATTN_11DB)
+ntc_pin.width(ADC.WIDTH_12BIT)
+
+while True:
+    ntc_valor=ntc_pin.read_u16()
+    print(ntc_valor, round(adc_a_celsius(ntc_valor),1))
+    sleep(0.1)
