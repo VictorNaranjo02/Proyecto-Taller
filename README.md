@@ -37,10 +37,8 @@ https://github.com/VictorNaranjo02/Transformando_Fila-Mentes/blob/main/Diagrama%
 Con la ayuda de la herramienta Kicad se realizo el esquematico electrico del proyecto, tal que https://github.com/VictorNaranjo02/Transformando_Fila-Mentes/blob/main/Esquematico%20electrico.jpeg
 ### Codigo Python
 Para el manejo de la velocidad en el motor paso a paso se utilizo la herramienta de micropython en la Esp32, lo cual no permite tener un control de la velocidad del motor de manera digital. Para esto se hizo uso del codigo https://github.com/VictorNaranjo02/Transformando_Fila-Mentes/blob/main/Codigo%20Python
-### Link del video de Youtube (donde se explique la implementación del proyecto)
-https://docs.google.com/presentation/d/1lC93OKbK18KAW_jD2Hf-klyL_9yhNtIW/edit?usp=sharing&ouid=104707535118213430211&rtpof=true&sd=true
 ### Conclusiones
-
+Este proyecto nos deja muchos aprendizajes y experiencias. Una de las mayores complicaciones a la hora de implementar el proyecto fue la disponibilidad de los materiales, debido a que varios de ellos eran dificiles de obtener o contaban con un precio muy elevado, esto ocasiono el cambio o reemplazo de alguno de estos. Pero esto no fue del todo malo, debido a que nos "obligo" a tener que pensar en soluciones de acuerdo al contexto.
 ### Referencias
 - Cambatronix Online. (2022, Noviembre 12). MicroPython para ESP32 #10 : Termistores NTC. YouTube. https://www.youtube.com/watch?v=7SpQ0ttJr3A&ab_channel=CambatronicsOnline
 - Hachi Quintana, J. G., & Rodríguez Mejía, J. D. (2010). Estudio de factibilidad para reciclar envases plásticos de polietileno tereftalato (PET), en la ciudad de Guayaquil. Estudio de factibilidad para reciclar envases plásticos de polietileno tereftalato (PET), en la ciudad de Guayaquil. https://dspace.ups.edu.ec/bitstream/123456789/2450/20/UPS-GT000106.pdf
