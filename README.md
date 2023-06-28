@@ -42,9 +42,9 @@ https://docs.google.com/presentation/d/1lC93OKbK18KAW_jD2Hf-klyL_9yhNtIW/edit?us
 ### Conclusiones
 
 ### Referencias
-Cambatronix Online. (2022, Noviembre 12). MicroPython para ESP32 #10 : Termistores NTC. YouTube. https://www.youtube.com/watch?v=7SpQ0ttJr3A&ab_channel=CambatronicsOnline
-Hachi Quintana, J. G., & Rodríguez Mejía, J. D. (2010). Estudio de factibilidad para reciclar envases plásticos de polietileno tereftalato (PET), en la ciudad de Guayaquil. Estudio de factibilidad para reciclar envases plásticos de polietileno tereftalato (PET), en la ciudad de Guayaquil. https://dspace.ups.edu.ec/bitstream/123456789/2450/20/UPS-GT000106.pdf
-iobotic. (2020, Agosto 9). Como instalar microPython en la ESP32 - FÁCIL - V1. YouTube. https://www.youtube.com/watch?v=RLqPB1PM6gE&list=PL7qLO1tt1gJ6_qTBv6RtBqPnl7uRzyk_R&index=6&ab_channel=iobotic
-Programador Novato. (2022, Noviembre 8). Enviar datos al ESP32 vía Bluetooth con App Inventor. YouTube. https://www.youtube.com/watch?v=l10NGNCGUBc&list=PL7qLO1tt1gJ6_qTBv6RtBqPnl7uRzyk_R&index=13&ab_channel=ProgramadorNovato
-Sampallo, G. (2019, Marzo 22). MicroPython - Control de motor paso a paso con A4988. YouTube. https://www.youtube.com/watch?v=0L2vNh2fi-M&list=PL7qLO1tt1gJ6_qTBv6RtBqPnl7uRzyk_R&index=11&t=84s&ab_channel=GuillermoSampallo
-XY.3D. (2022, Julio 7). Construye tu propia máquina para fabricar filamento 3D a partir de botellas. YouTube. https://www.youtube.com/watch?v=u7IBrJk_kgg&list=PL7qLO1tt1gJ6_qTBv6RtBqPnl7uRzyk_R&index=2&t=50s
+- Cambatronix Online. (2022, Noviembre 12). MicroPython para ESP32 #10 : Termistores NTC. YouTube. https://www.youtube.com/watch?v=7SpQ0ttJr3A&ab_channel=CambatronicsOnline
+- Hachi Quintana, J. G., & Rodríguez Mejía, J. D. (2010). Estudio de factibilidad para reciclar envases plásticos de polietileno tereftalato (PET), en la ciudad de Guayaquil. Estudio de factibilidad para reciclar envases plásticos de polietileno tereftalato (PET), en la ciudad de Guayaquil. https://dspace.ups.edu.ec/bitstream/123456789/2450/20/UPS-GT000106.pdf
+- iobotic. (2020, Agosto 9). Como instalar microPython en la ESP32 - FÁCIL - V1. YouTube. https://www.youtube.com/watch?v=RLqPB1PM6gE&list=PL7qLO1tt1gJ6_qTBv6RtBqPnl7uRzyk_R&index=6&ab_channel=iobotic
+- Programador Novato. (2022, Noviembre 8). Enviar datos al ESP32 vía Bluetooth con App Inventor. YouTube. https://www.youtube.com/watch?v=l10NGNCGUBc&list=PL7qLO1tt1gJ6_qTBv6RtBqPnl7uRzyk_R&index=13&ab_channel=ProgramadorNovato
+- Sampallo, G. (2019, Marzo 22). MicroPython - Control de motor paso a paso con A4988. YouTube. https://www.youtube.com/watch?v=0L2vNh2fi-M&list=PL7qLO1tt1gJ6_qTBv6RtBqPnl7uRzyk_R&index=11&t=84s&ab_channel=GuillermoSampallo
+- XY.3D. (2022, Julio 7). Construye tu propia máquina para fabricar filamento 3D a partir de botellas. YouTube. https://www.youtube.com/watch?v=u7IBrJk_kgg&list=PL7qLO1tt1gJ6_qTBv6RtBqPnl7uRzyk_R&index=2&t=50s
