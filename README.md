@@ -22,9 +22,10 @@ Conclusiones
 - 1 Esp32 V1
 - 1 driver a4988
 - 1 motor paso a paso mitsumi (a106)
-* 1 termistor de 100k 
-1 bloque calefactor
-1 fuente de poder de 12v
+- 1 termistor de 100k
+- 1 cartucho calefactor 
+- 1 bloque calefactor
+- 1 fuente de poder de 12v
 ### Diagrama de caja negra
 [Diagrama_de_Cajas_Negras.jpg](https://github.com/VictorNaranjo02/Transformando_Fila-Mentes/blob/main/Diagrama_de_Cajas_Negras.jpg)
 ### Ideas de Tablero
@@ -37,12 +38,9 @@ esquematico circuital
 ruteo en Kicad
 3d del diseño 
 fotos de la PCB
-### Pruebas
-fotos del corte de piezas 
 ### Codigo Python
 Para el manejo de la velocidad en el motor paso a paso se utilizo la herramienta de micropython en la Esp32, lo cual no permite tener un control de la velocidad del motor de manera digital. Para esto se hizo uso del codigo https://github.com/VictorNaranjo02/Transformando_Fila-Mentes/blob/main/Codigo%20Python
 ### Link del video de Youtube (donde se explique la implementación del proyecto)
-
 
 https://docs.google.com/presentation/d/1lC93OKbK18KAW_jD2Hf-klyL_9yhNtIW/edit?usp=sharing&ouid=104707535118213430211&rtpof=true&sd=true
 ### Conclusiones
