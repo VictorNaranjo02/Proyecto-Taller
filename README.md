@@ -7,7 +7,7 @@ En las últimas décadas la industria de la impresión 3d se ha venido expandien
 Debido a esto ha surgido la necesidad de buscar nuevos materiales para la impresión 3d y uno de los más populares es el PETG, quien gracias a sus siglas PET (tereftalato de polietileno) se puede saber que es un polietileno (plástico), el cual es uno de los plásticos más utilizados en el mundo y comúnmente se utiliza en la fabricación de envases de bebidas. Este PET gracias al proceso de glicosilación, proceso que permite la unión de carbohidratos a proteínas, adquiere unas características que le permiten termoformarse y le dan una mejor resistencia.
 Además, el PET al ser un material tan común, ocasionalmente tiende a desecharse, lo cual causa una mayor contaminación y daño al ambiente. Es por lo anterior, que el proyecto de Transformando Fila-Mentes tiene la intención de reusar las botellas PET, a través de una máquina que transforma las botellas en filamentos, para su uso en las impresiones 3D. Así propiciando una mayor vida útil de estos materiales que afectan al ambiente e  impulsando maneras alternativas en el uso de la impresión 3D.
 ### Alcance
-Como resultado del proyecto tendríamos la máquina de filamentos, esta se basó principalmente en el modelo de Leandro Mantirgano (https://github.com/VictorNaranjo02/Transformando_Fila-Mentes/blob/main/Maquina%20inspiracion.jpg), con sus respectivos cambios, los cuales consisten en el cambio del regulador de temperatura manual a uno digital, el control de la velocidad del motor manual (potenciómetro) por uno digital (a través de codigos en python) y el cambio de componentes por el microcontrolador esp32, el cual nos permite controlar varias funciones a través del lenguaje de programación, en este caso específico microphyton.
+Como resultado del proyecto tendríamos la máquina de filamentos, esta se basó principalmente en el modelo de Leandro Mantirgano ![](https://github.com/VictorNaranjo02/Transformando_Fila-Mentes/blob/main/Maquina%20inspiracion.jpg), con sus respectivos cambios, los cuales consisten en el cambio del regulador de temperatura manual a uno digital, el control de la velocidad del motor manual (potenciómetro) por uno digital (a través de codigos en python) y el cambio de componentes por el microcontrolador esp32, el cual nos permite controlar varias funciones a través del lenguaje de programación, en este caso específico microphyton.
 ### Objetivos
 Planteamiento de la máquina
 Diagrama de cajas negras
@@ -33,9 +33,9 @@ Conclusiones
 Con ayuda del profe surgieron ideas para las tecnologias a implemetar https://github.com/VictorNaranjo02/Transformando_Fila-Mentes/blob/main/Tablero.jpg
 ### Diagrama de caja negra (con tecnológia)
 A partir del diagrama de cajas negras y las charlas con el profe, se obtiene el diagrama de la tecnologia a disponer en el proyecto 
-https://github.com/VictorNaranjo02/Transformando_Fila-Mentes/blob/main/Diagrama%20tecnologia.jpg
+![](https://github.com/VictorNaranjo02/Transformando_Fila-Mentes/blob/main/Diagrama%20tecnologia.jpg)
 ### Apartado Kicad
-Con la ayuda de la herramienta Kicad se realizo el esquematico electrico del proyecto, tal que https://github.com/VictorNaranjo02/Transformando_Fila-Mentes/blob/main/Esquematico%20electrico.jpeg
+Con la ayuda de la herramienta Kicad se realizo el esquematico electrico del proyecto, tal que ![](https://github.com/VictorNaranjo02/Transformando_Fila-Mentes/blob/main/Esquematico%20electrico.jpeg)
 ### Codigo Python
 Para el manejo de la velocidad en el motor paso a paso se utilizo la herramienta de micropython en la Esp32, lo cual no permite tener un control de la velocidad del motor de manera digital. Para esto se hizo uso del codigo https://github.com/VictorNaranjo02/Transformando_Fila-Mentes/blob/main/Codigo%20Python
 ### Conclusiones
