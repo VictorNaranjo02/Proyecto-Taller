@@ -27,8 +27,8 @@ Conclusiones
 - 1 bloque calefactor
 - 1 fuente de poder de 12v
 ### Diagrama de caja negra
-[Diagrama_de_Cajas_Negras.jpg](https://github.com/VictorNaranjo02/Transformando_Fila-Mentes/blob/main/Diagrama_de_Cajas_Negras.jpg)
-!(images/Diagrama de Cajas Negras.jpg)
+![Diagrama_de_Cajas_Negras.jpg](https://github.com/VictorNaranjo02/Transformando_Fila-Mentes/blob/main/Diagrama_de_Cajas_Negras.jpg)
+
 ### Ideas de Tablero
 Con ayuda del profe surgieron ideas para las tecnologias a implemetar https://github.com/VictorNaranjo02/Transformando_Fila-Mentes/blob/main/Tablero.jpg
 ### Diagrama de caja negra (con tecnológia)
