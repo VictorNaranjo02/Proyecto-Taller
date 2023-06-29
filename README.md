@@ -38,6 +38,9 @@ A partir del diagrama de cajas negras y las charlas con el profe, se obtiene el 
 Con la ayuda de la herramienta Kicad se realizo el esquematico electrico del proyecto, tal que ![](https://github.com/VictorNaranjo02/Transformando_Fila-Mentes/blob/main/Esquematico%20electrico.jpeg)
 ### Codigo Python
 Para el manejo de la velocidad en el motor paso a paso se utilizo la herramienta de micropython en la Esp32, lo cual no permite tener un control de la velocidad del motor de manera digital. Para esto se hizo uso del codigo: [Codigo Phyton](https://github.com/VictorNaranjo02/Transformando_Fila-Mentes/blob/main/Codigo%20Python)
+### Videos del funcionamiento 
+https://youtube.com/shorts/z9ZIlAqbIH0?feature=share
+https://youtube.com/shorts/QZ78LWi1f3w?feature=share
 ### Conclusiones
 Este proyecto nos deja muchos aprendizajes y experiencias. Una de las mayores complicaciones a la hora de implementar el proyecto fue la disponibilidad de los materiales, debido a que varios de ellos eran dificiles de obtener o contaban con un precio muy elevado, esto ocasiono el cambio o reemplazo de alguno de estos. Pero esto no fue del todo malo, debido a que nos "obligo" a tener que pensar en soluciones de acuerdo al contexto.
 ### Referencias
